@@ -6,9 +6,9 @@ import time
 import sqlite3
 
 # === CONFIG ===
-BOT_TOKEN = "MASUKIN_BOT_TOKEN_LO"
+BOT_TOKEN = "8550068285:AAHepdxHY5Gz31CBMWkaXWFVEjg0PZ2mzuM"
 PREMIUM_API_KEY = "MASUKIN_API_KEY_PREMIUM_LO"
-ADMIN_ID = 123456789  # ganti dengan Telegram ID lo
+ADMIN_ID = 7799092693  # ganti dengan Telegram ID lo
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === DATABASE ===
